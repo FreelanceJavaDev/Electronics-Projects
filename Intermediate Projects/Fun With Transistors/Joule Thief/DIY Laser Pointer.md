@@ -33,11 +33,12 @@ Of all the things to make, a laser pointer provides hours of entertainment.  Esp
   
   ## Application limitations of Joule Thiefs
     The Joule Thief creates rapid pulses of electricty. These pulses will cause issues with some components.  It may even destroy them.
+
     - Without additional components Joule Theifs should not be used with:
-     --Integrated Circuits
-     --Computers
-     --CPUS
-     --Dlash memory devices
+     - Integrated Circuits
+     - Computers
+     - CPUS
+     - Flash memory devices
   
   Joule Thiefs cannot be bought, but are easily made.  Just use two lengths of insulated copper wire (24 AWG or smaller) of different colors and a ferrite torroid.
   **Do not use with any components senstive to magnetic fields.**
