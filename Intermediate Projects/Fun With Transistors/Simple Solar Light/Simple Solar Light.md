@@ -25,4 +25,4 @@ The clearest method to demonstrate it is using transistors to switch from one po
   
   This particular project utilizes rechargable batteries, specifically Nickel-Metal-Hydride (Ni-MH) batteries.  DO NOT USE LITHIUM ION BATTERIES!  
   
-  Also the Solar panel should have a maximum current rating of less than 1/10 of the capacity of the batteries (IE if they are 1300mAh only get a solar panel that has a current rating of 120mA or less)
+  Also the Solar panel should have a maximum current rating of **less** than 1/10 of the capacity of the batteries (if the batteries are 1300mAh only get a solar panel that has a current rating of 120mA or less)
